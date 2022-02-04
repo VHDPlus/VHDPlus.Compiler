@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHDPlus.Compiler", "src\VHDPlus.Compiler\VHDPlus.Compiler.csproj", "{566586A9-F6C1-459B-852B-63304189C45B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VHDPlus.Compiler.Tests", "tests\VHDPlus.Compiler.Tests\VHDPlus.Compiler.Tests.csproj", "{0C03D5C8-4DA3-4DC9-B0E0-CE6C572F42A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{566586A9-F6C1-459B-852B-63304189C45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{566586A9-F6C1-459B-852B-63304189C45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{566586A9-F6C1-459B-852B-63304189C45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{566586A9-F6C1-459B-852B-63304189C45B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C03D5C8-4DA3-4DC9-B0E0-CE6C572F42A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C03D5C8-4DA3-4DC9-B0E0-CE6C572F42A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C03D5C8-4DA3-4DC9-B0E0-CE6C572F42A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C03D5C8-4DA3-4DC9-B0E0-CE6C572F42A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
