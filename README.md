@@ -1,4 +1,4 @@
-# VHDPlus.Compiler
+# VHDPlus.Compiler (WIP, coming soon)
 
 VHDP Compiler used by VHDPlus IDE.
 https://vhdplus.com
